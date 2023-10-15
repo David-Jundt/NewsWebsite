@@ -1,0 +1,37 @@
+label {
+    margin-top: 15px;
+}
+
+#label1 {
+    margin-top: -15px;
+}
+
+#button1 {
+    margin-bottom: 80px;
+}
+
+#buttonUpdate {
+    margin-bottom: 40px;
+}
+
+#column1 {
+    padding: 10px;
+    
+}
+
+#column1, img {
+    width: 50%;
+}
+
+#titel {
+    text-align: center;
+}
+
+#sort1 {
+    margin-left: 52%;
+}
+
+#button2 {
+    margin-left: 72%;
+    margin-top: -10%;
+}
